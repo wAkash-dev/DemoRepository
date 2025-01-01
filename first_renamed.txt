@@ -3,4 +3,5 @@ I want this to go into commit 2
 this is changed now
 bebjib
 this is from master branch
+this is changed in Bugfix branch 
 
